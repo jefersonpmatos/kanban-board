@@ -1,30 +1,44 @@
-# React + TypeScript + Vite
+# KANBAN BOARD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created for study purposes. It features a drag-and-drop kanban board for tasks that can be reordered within or between columns, enabling users to create their own workflow or thought organization. Additionally, it allows customization of columns for better organization.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  How to run locally
 
-## Expanding the ESLint configuration
+### 👾 Clone repo
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+git clone git@github.com:jefersonpmatos/kanban-board.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### 🔧 Install deps
+
+```
+npm install or yarn add
+```
+
+### 🚀 Run the project:
+
+```
+npm run dev or yarn dev
+```
+
+
+## ⚡ Techs
+
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+## ⌨️ Under development
+
+* API integration
+* Login and Authentication.
+
+## 📌 Versão
+
+Versão Beta. 
+
+---
+⌨️ com ❤️ by [Jeferson P. Matos]([https://gist.github.com/lohhan](https://github.com/jefersonPMatos)https://github.com/jefersonPMatos) 
