@@ -3,6 +3,16 @@
 This project was created for study purposes. It features a drag-and-drop kanban board for tasks that can be reordered within or between columns, enabling users to create their own workflow or thought organization. Additionally, it allows customization of columns for better organization.
 
 
+### 🟢 Deploy
+
+<https://kanban-board-orcin-five.vercel.app/>
+
+
+
+
+
+
+
 ##  How to run locally
 
 ### 👾 Clone repo
